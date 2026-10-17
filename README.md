@@ -50,6 +50,19 @@ ball_balancing/
 - Common ground between external supply and Arduino GND — mandatory
 
 ---
+## Demo
+
+![Ball balancing demo](img/debugging_display.gif)
+
+## Platform
+
+![Hardware platform](img/demo.gif)
+
+## Wiring
+
+![Wiring diagram](img/wiring_temporary.png)
+
+---
 
 ## Setup
 
