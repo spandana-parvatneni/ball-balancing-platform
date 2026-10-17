@@ -1,0 +1,20 @@
+{
+  "pid": {
+    "x": {"kp": 0.0392, "ki": 0.0, "kd": 0.0127},
+    "y": {"kp": 0.043, "ki": 0.0, "kd": 0.0122}
+  },
+  "hsv": {
+    "min": [9, 121, 127],
+    "max": [56, 255, 255]
+  },
+  "servo": {
+    "center_x": 89,
+    "center_y": 89,
+    "limit": 20
+  },
+
+
+  "camera_index": 1,
+  "serial_port": "COM5",
+  "baud_rate": 115200
+}
